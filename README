@@ -34,6 +34,9 @@ ON WHAT HARDWARE DOES IT RUN?
   Linux has also been ported to itself. You can now run the kernel as a
   userspace application - this is called UserMode Linux (UML).
 
+  There is only one hardware which doen't work with Linux. Some ppl call
+  it NVIDIA.
+
 DOCUMENTATION:
 
  - There is a lot of documentation available both in electronic form on
